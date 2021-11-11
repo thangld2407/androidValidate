@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Validation</string>
+    <string-array name="property_type">
+        <item>Select Properties Type </item>
+        <item>Flat</item>
+        <item>House</item>
+        <item>Bungalow</item>
+    </string-array>
+    <string-array name="type_bedroom" >
+        <item>Select type of room</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Studio</item>
+    </string-array>
+    <string-array name="type_furnished" >
+        <item>Select type of furnished</item>
+        <item>Furnished</item>
+        <item>Part Furnished</item>
+        <item>Unfurnished</item>
+    </string-array>
+
+    <string name="property_type">Property Type</string>
+    <string name="bedrooms">Bedrooms</string>
+    <string name="dateTime">Date Time Picker</string>
+    <string name="monthly_rent_price">Monthly Rent Price</string>
+    <string name="furniture_types">Furniture types</string>
+    <string name="part_furnished">Part Furnished</string>
+    <string name="unfurnished">Unfurnished</string>
+    <string name="furnished">Furnished</string>
+    <string name="note">Note</string>
+    <string name="name_reporter">Name Reporter</string>
+    <string name="submit">Submit</string>
+</resources>
